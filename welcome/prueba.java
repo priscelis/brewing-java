@@ -1,4 +1,4 @@
-package prueba;
+package welcome;
 
 public class prueba   {
     public static void main(String[] args) {
