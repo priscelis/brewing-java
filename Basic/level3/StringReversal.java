@@ -1,6 +1,5 @@
 package level3;
 import java.util.Scanner;
-import java.lang.*;
 
 public class StringReversal {
     private Scanner word;
