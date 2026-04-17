@@ -47,7 +47,7 @@ public class DuplicateRemover {
         number = random.nextInt(10);  // Este es null
         System.out.println(number);
               }while(number <= 5 );
-        // I forgot ti iterate the array
+        // I forgot to iterate the array
         box = new int[number];
         for(int x = 0; x < box.length; x++){
             System.out.println("Enter a number: ");
@@ -55,10 +55,6 @@ public class DuplicateRemover {
         }
 
         System.out.println();
-      
-       
-        
-        
     }
 
     public void print(){
